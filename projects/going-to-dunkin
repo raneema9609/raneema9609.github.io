@@ -46,7 +46,9 @@
 
             <h1 class="margin text-center">Going To Dunkin</h1>
             <p>For this project, me and my partner were assigned the task of creating a movie webpage of our choice; of which we decided to choose "going to dunkin afterschool". This is because going to dunkin afterschool was the highlight of our school day since we would have something to look forward to at the end of the day. We created the project with many ideas in mind, but in the end this is the one we agreed on. </p>
-            <p> We created this webpage using all of our past-knowldege of SEP and coding .</p>
+            <p> We created this webpage using all of our past-knowldege of SEP and coding while using cs50.dev, and adding it all to Github. while completing the project, me and my partner started getting a hang of using many new commands, like git add ., git commit -m"message", git push, git pull, etc. Additionally, we had to insert a link to both of our portfolios, as well as our original planning page that helped the project run much more smoothly. Lastly, we added an image of our planning page to the README.md file</p>
+           <p> The biggest issue I had while creating the webpage was when I had to use Google Drawings for the first time, and I had to tinker with it before I could create my planning page. After much debate and negotiation, we were able to agree on a couple of ideas from each of us. Another challenge was collaborating outside of school, specifically when my partner or I weren’t able to immediately respond to each other's messages. We faced many issues when one of us would forget to pull changes, or forget to commit changes of our own. Fortunately, we were able to work through these issues.However, after making all these mistakes, we realized that despite these issues and challenges we had, we were also improving our skills with every mistake made. Now, we’ve gained lots of knowledge from all this, as well as knowing which mistakes not to make. </P>
+           
             <a href="https://github.com/raneema9609/going-to-dunkin-afterschool/blob/main/README.md">Link about the project</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
